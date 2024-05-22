@@ -1,0 +1,47 @@
+body{
+    background: rgb(42, 93, 90);
+}
+.h1{
+    background: rgb(49, 19, 19);
+    width: 500px;
+    text-align: center;
+    margin: 22px auto;
+    padding: 1px 0px 1px 0px;
+}
+.MarginVsPadding{
+color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 50px;
+}
+.skelet{
+margin: 55px auto ;
+width: 1000px;
+box-sizing: border-box;
+border: 10px solid rgb(255, 6, 6);
+background: rgb(0, 0, 0);
+padding: 45px 52px 15px 52px;
+}
+.skelet>div{
+background: rgb(31, 232, 183);
+margin-bottom: 30px;
+padding-top: 30px;
+padding-left: 30px;
+padding-bottom: 30px;
+
+}
+.margin_1{
+width: 817px;
+height: 151px;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 24px;
+text-align: justify;
+}
+.padding_1{
+    width: 817px;
+height: 151px;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 24px;
+text-align: justify;
+}
